@@ -1,1 +1,1 @@
-![Alt text](/er_diagram/photo.jpg "Task Galaxy ER Diagram")
+![Alt text](https://raw.githubusercontent.com/rachelbookhout/task_galaxy/master/er_diagram/taskgalaxy2.jpg?token=5615157__eyJzY29wZSI6IlJhd0Jsb2I6cmFjaGVsYm9va2hvdXQvdGFza19nYWxheHkvbWFzdGVyL2VyX2RpYWdyYW0vdGFza2dhbGF4eTIuanBnIiwiZXhwaXJlcyI6MTQxMTM4NjQxNX0%3D--d06fc600d51cae796b6784a84dc975f08853f23e "Task Galaxy ER Diagram")
